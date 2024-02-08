@@ -1,6 +1,9 @@
  <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-   <H1> yes </H1>
+
+   <H1> MERGE NO GIT - yes </H1>
+
+
 </BODY>
 </HTML>
